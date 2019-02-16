@@ -2,7 +2,6 @@
 layout: post
 title: Balanced Joy
 ---
-
 Balance is hard. 
 
 Have you ever felt like you can never get to the things you want to do? The things you enjoy and love? You fill your time with good things, school, work, church, but never have the time to spend on what you care about?
