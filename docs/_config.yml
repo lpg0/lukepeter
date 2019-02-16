@@ -4,13 +4,14 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Luke Peter
 tagline:          'Young Blood Old Truth'
 description:      'A blog devoted to living out real theology as a young adult'
-baseurl: ""
-url: "https://lpg0.github.io"
+url:              http://lukepeter.com
+baseurl:          /
 
 author:
   name:           'Luke Peter'
