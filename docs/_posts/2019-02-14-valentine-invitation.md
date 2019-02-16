@@ -2,7 +2,6 @@
 layout: post
 title: Valentine Invitation
 ---
-
 Today is Valentine’s day. Woohoo. Shout out to all those other people who do not get to spend it with someone (me)!
 
 But seriously, Valentine’s day is a wack holiday. In 1969 he was removed from the Roman Catholic calendar because there was not enough [reliable information about him.](https://www.britannica.com/biography/Saint-Valentine) Stories and boxes of chocolates are pretty much all of what is left of his namesake, and they are just hazy and fictitious echoes of what actually was. I would try and write some nice post analogizing his myth, but I am not about that. 
