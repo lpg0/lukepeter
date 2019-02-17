@@ -80,7 +80,7 @@ html {
 /* About section */
 .sidebar-about h1 {
   color: #fff;
-  margin-top: 0;
+  margin-top: 1rem;
   /*font-family: "Abril Fatface", serif;*/
   font-family: 'Biryani', sans-serif;
   text-transform: uppercase;
