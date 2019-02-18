@@ -54,7 +54,7 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
-input[type=text] {
+/*input[type=text] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -77,7 +77,7 @@ input[type=submit] {
 
 input[type=submit]:hover {
   background-color: #45a049;
-}
+}*/
 
 .sidebar {
   text-align: center;
