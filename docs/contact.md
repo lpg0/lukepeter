@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 ---
-<contactdiv>
+<div>
 <form action="https://formspree.io/lukepg98@gmail.com" method="POST">
   
     <label for="name">Your Name</label>
@@ -16,5 +16,5 @@ title: Contact
   
     <input type="submit" value="Send">
 </form>
-</contactdiv>
+</div>
 
