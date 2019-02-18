@@ -32,6 +32,7 @@
  */
 
 @import url('https://fonts.googleapis.com/css?family=Biryani');
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -106,7 +107,8 @@ input[type=submit]:hover {
   color: #fff;
   margin-top: 1rem;
   /*font-family: "Abril Fatface", serif;*/
-  font-family: 'Biryani', sans-serif;
+  /*font-family: 'Biryani', sans-serif;*/
+  font-family: 'Cinzel', serif;
   text-transform: uppercase;
   font-size: 3.25rem;
 }
