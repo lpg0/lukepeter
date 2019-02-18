@@ -9,17 +9,12 @@ permalink:        pretty
 title:            Luke Peter
 tagline:          'Young Blood Old Truth'
 description:      'A blog devoted to living out real theology as a young adult'
-url:              http://lpg0.github.io
+url:              http://lpg0.github.io/lukepeter
 baseurl:          http://lukepeter.com
 
 # Sitemaps
 gems:
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
   - jekyll-sitemap
-  - jekyll_video_tag
 
 author:
   name:           'Luke Peter'
