@@ -13,8 +13,7 @@ url:              http://lpg0.github.io
 baseurl:          http://lukepeter.com
 
 # Sitemaps
-plugins: 
-  - jekyll-sitemap
+gems: - jekyll-sitemap
 
 author:
   name:           'Luke Peter'
