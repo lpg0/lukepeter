@@ -79,12 +79,6 @@ input[type=submit]:hover {
   background-color: #45a049;
 }
 
-contactdiv {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
-
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
