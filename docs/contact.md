@@ -2,34 +2,7 @@
 layout: page
 title: Contact
 ---
-<html>
-<style>
-
-input[type=submit] {
-  width: 100%;
-  background-color: #4CAF50;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-input[type=submit]:hover {
-  background-color: #45a049;
-}
-
-div {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
-</style>
-<body>
-  
-<div>
-  <form action="https://formspree.io/lukepg98@gmail.com" method="POST">
+<form action="https://formspree.io/lukepg98@gmail.com" method="POST">
   
     <label for="name">Your Name</label>
     <input type="text" name="name" id="name" placeholder="Your Name" required>
@@ -43,7 +16,4 @@ div {
     <input type="submit" value="Send">
 </form>
 </div>
-
-</body>
-</html>
 
