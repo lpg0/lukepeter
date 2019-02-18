@@ -21,7 +21,7 @@ There is so much to God and to His word and its relation to my life as a college
   font-family: Lato, Arial;
 }
 form {
-  margin: 5% auto;
+  margin: 2% auto;
   width: 25%;
 }
 label {
