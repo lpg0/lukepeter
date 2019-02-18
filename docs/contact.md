@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
+title: Contact
 ---
-<!DOCTYPE html>
 <html>
 <style>
 
@@ -28,9 +27,7 @@ div {
 }
 </style>
 <body>
-
-<h3>Using CSS to style an HTML Form</h3>
-
+  
 <div>
   <form action="https://formspree.io/lukepg98@gmail.com" method="POST">
   
