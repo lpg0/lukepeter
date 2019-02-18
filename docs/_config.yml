@@ -11,6 +11,7 @@ tagline:          'Young Blood Old Truth'
 description:      'A blog devoted to living out real theology as a young adult'
 url:              http://lukepeter.com
 baseurl:          http://lukepeter.com
+production_url:   http://lukepeter.com
 
 # Sitemaps
 gems:
