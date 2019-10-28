@@ -8,5 +8,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- docs/_posts/2019-10-28-test.md
