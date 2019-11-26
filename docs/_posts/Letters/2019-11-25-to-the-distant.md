@@ -1,5 +1,5 @@
 ---
-layout: letter
+layout: post
 title: To The Distant
 
 ---
