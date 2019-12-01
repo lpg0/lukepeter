@@ -9,9 +9,9 @@ permalink:        pretty
 title:            Luke Peter
 tagline:          'Young Blood Old Truth'
 description:      'A blog devoted to living out theology as a young adult'
-url:              http://lukepeter.com
-baseurl:          http://lukepeter.com
-production_url:   http://lukepeter.com
+url:              https://lukepeter.com
+baseurl:          https://lukepeter.com
+production_url:   https://lukepeter.com
 
 # Sitemaps
 gems:
